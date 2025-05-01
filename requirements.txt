@@ -1,0 +1,9 @@
+pandas
+numpy
+networkx
+matplotlib
+plotly
+pycountry
+scikit-learn
+seaborn
+nbformat>=4.2.0
